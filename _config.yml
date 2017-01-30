@@ -36,14 +36,11 @@ author: {}
 content_rating:
   adult: false
 navigation:
-  - name: 'Tour Packages:'
-    id: d58d7143-b361-4f6f-bfdd-aa74d609b939
-    type: content
   - name: 'Hotels & Resorts:'
     id: c7a64780-2715-40dd-89ee-3ad92359b925
     type: content
-  - name: 'Transportation:'
-    id: afca309b-c573-4235-8667-8c0f25d0f98f
+  - name: 'Tour Packages:'
+    id: d58d7143-b361-4f6f-bfdd-aa74d609b939
     type: content
   - name: 'About us..... '
     id: 5eadd189-3e5d-4228-8b84-00d84945ed79
