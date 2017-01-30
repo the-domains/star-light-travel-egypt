@@ -1,8 +1,21 @@
+layout_spectrum: 0.5821406413876626
+typography_spectrum: 0.309580798373364
+color:
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+  brandStrength: 0.8187824934623251
+  lightness: 0.2994485702961314
+  saturation: 0.07806582050794497
+  rhythmicContrast: 0.872338840870537
+coverPrefs:
+  filter: false
 name: 'Star Light Travel Egypt '
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9b52dbc-39e3-44e9-b0a3-20543952e088.jpg
-layout_spectrum: 0.01979778810293589
-typography_spectrum: 0.8231951945228962
 analytics:
   facebook: ''
   google: UA-80814309-3
@@ -12,17 +25,6 @@ opengraph:
   appId: ''
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b1b1ad2-afd4-4bd4-8b42-ca94b3ed9d44.jpg
-color:
-  brandColors:
-    - '#FF6138'
-    - '#FFFF9D'
-    - '#BEEB9F'
-    - '#79BD8F'
-    - '#00A388'
-  brandStrength: 0.6354135140017745
-  lightness: 0.13749235912594981
-  saturation: 0.5412835054888879
-  rhythmicContrast: 0.2725038642250924
 purpose:
   - type: contact
     label: 'Call us:01117614828'
