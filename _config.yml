@@ -1,5 +1,5 @@
-layout_spectrum: 0.4768872550013705
-typography_spectrum: 0.8647669496991219
+layout_spectrum: 0.5765406770583721
+typography_spectrum: 0.7514093513370003
 color:
   brandColors:
     - '#FF6138'
@@ -7,10 +7,10 @@ color:
     - '#BEEB9F'
     - '#79BD8F'
     - '#00A388'
-  brandStrength: 0.9218154393909223
-  lightness: 0.07819870710400588
-  saturation: 0.0037250894301635498
-  rhythmicContrast: 0.2573682615478145
+  brandStrength: 0.47280527009785467
+  lightness: 0.5590196940997192
+  saturation: 0.08464257797327741
+  rhythmicContrast: 0.04071313519418092
 coverPrefs:
   filter: false
 name: 'Star Light Travel Egypt '
