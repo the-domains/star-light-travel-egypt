@@ -1,5 +1,6 @@
-layout_spectrum: 0.5765406770583721
 typography_spectrum: 0.7514093513370003
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#FF6138'
@@ -11,32 +12,21 @@ color:
   lightness: 0.5590196940997192
   saturation: 0.08464257797327741
   rhythmicContrast: 0.04071313519418092
-coverPrefs:
-  filter: false
-name: 'Star Light Travel Egypt '
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9b52dbc-39e3-44e9-b0a3-20543952e088.jpg
-analytics:
-  facebook: ''
-  google: UA-80814309-3
-  twitter: ''
+github: true
 opengraph:
   type: ''
   appId: ''
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b1b1ad2-afd4-4bd4-8b42-ca94b3ed9d44.jpg
-purpose:
-  - type: contact
-    label: 'Call us:01117614828'
-    url: 'tel:01117614828'
-  - type: contact
-    label: 'Email us:'
-    url: 'mailto:info@starlighteg.com'
-title: Star Light Travel
-description: the premium quality of traveling
+layout_spectrum: 0.5765406770583721
+analytics:
+  facebook: ''
+  google: UA-80814309-3
+  twitter: ''
 author: {}
-content_rating:
-  adult: false
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9b52dbc-39e3-44e9-b0a3-20543952e088.jpg
+name: 'Star Light Travel Egypt '
 navigation:
   - name: 'Hotels & Resorts:'
     id: c7a64780-2715-40dd-89ee-3ad92359b925
@@ -47,5 +37,18 @@ navigation:
   - name: 'About us..... '
     id: 5eadd189-3e5d-4228-8b84-00d84945ed79
     type: content
+  - name: Transportation
+    id: 068e4888-c9ab-4424-a558-acd15a7459f2
+    type: content
+title: Star Light Travel
 content: []
-github: true
+coverPrefs:
+  filter: false
+description: the premium quality of traveling
+purpose:
+  - type: contact
+    label: 'Call us:01117614828'
+    url: 'tel:01117614828'
+  - type: contact
+    label: 'Email us:'
+    url: 'mailto:info@starlighteg.com'
