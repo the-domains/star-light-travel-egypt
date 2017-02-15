@@ -34,7 +34,7 @@ navigation:
   - name: 'Tour Packages:'
     id: d58d7143-b361-4f6f-bfdd-aa74d609b939
     type: content
-  - name: Transportation
+  - name: 'Transportation:'
     id: 068e4888-c9ab-4424-a558-acd15a7459f2
     type: content
   - name: 'Omra Programs:'
