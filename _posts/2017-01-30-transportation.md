@@ -1,7 +1,7 @@
 ---
 title: 'Transportation:'
-datePublished: '2017-01-30T23:03:17.262Z'
-dateModified: '2017-01-30T23:00:04.156Z'
+datePublished: '2017-02-15T23:40:35.154Z'
+dateModified: '2017-02-15T23:40:34.411Z'
 publisher: {}
 author: []
 inFeed: true
@@ -11,9 +11,11 @@ description: >-
   our team of professional representatives,drivers and staff whom will serve you
   in passion.
 via: {}
+sourcePath: _posts/2017-01-30-transportation.md
+hasPage: true
 starred: true
 datePublishedOriginal: '2017-01-30T14:39:21.312Z'
-sourcePath: _posts/2017-01-30-transportation.md
+url: transportation/index.html
 _type: Article
 _context: 'http://schema.org'
 
