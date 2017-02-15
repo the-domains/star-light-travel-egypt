@@ -43,6 +43,9 @@ navigation:
   - name: 'About us..... '
     id: 5eadd189-3e5d-4228-8b84-00d84945ed79
     type: content
+  - name: 'Nile Cruise Ships:'
+    id: fa6ddb06-5a12-4cd4-a0d9-71c66f15bf16
+    type: content
 title: Star Light Travel
 content: []
 coverPrefs:
